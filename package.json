@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "@imagemagick/magick-wasm": "^0.0.10",
-    "image-size": "^1.0.1",
     "unenv": "^0.4.6"
   }
 }
