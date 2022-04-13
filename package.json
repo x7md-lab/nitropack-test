@@ -1,0 +1,19 @@
+{
+  "name": "workers-waifu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nitropack": "^0.2.7"
+  },
+  "dependencies": {
+    "@imagemagick/magick-wasm": "^0.0.10",
+    "image-size": "^1.0.1",
+    "unenv": "^0.4.6"
+  }
+}

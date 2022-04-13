@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "paths": {
+      "#nitro": [
+        "/home/x7md/projects/workers-waifu/node_modules/nitropack/dist/runtime/index"
+      ],
+      "#nitro/*": [
+        "/home/x7md/projects/workers-waifu/node_modules/nitropack/dist/runtime/*"
+      ]
+    }
+  },
+  "include": [
+    "./nitro.d.ts"
+  ]
+}
